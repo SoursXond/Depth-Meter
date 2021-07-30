@@ -1,0 +1,15 @@
+[
+  {
+    "condition": "minecraft:entity_scores",
+    "entity": "this",
+    "scores": {
+      "DMPosY": {
+        "max": 29
+      }
+    }
+  },
+  {
+    "condition": "minecraft:reference",
+    "name": "depthmeter:nether/in_dimension"
+  }
+]

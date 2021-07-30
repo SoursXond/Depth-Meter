@@ -1,0 +1,8 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "type": "#depthmeter:item_frames",
+    "nbt": "{Item:{id:\"minecraft:command_block\"}}"
+  }
+}

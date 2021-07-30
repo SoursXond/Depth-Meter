@@ -1,0 +1,15 @@
+[
+  {
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:reference",
+        "name": "depthmeter:overworld/blocks_from_sea_level"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "depthmeter:nether/blocks_from_sea_level"
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "block.minecraft.command_block": "§fDepth Meter",
+
+  "commands.toggle.disabled": "Displayed elevation toggle has been disabled",
+  "commands.toggle.too_high": "Integer must not be more than 2, found ",
+  "commands.toggle.too_low": "Integer must not be less than 1, found ",
+  
+  "depthmeter.blocks_above_sea_level": " blocks above sea level",
+  "depthmeter.block_above_sea_level": "1 block above sea level",
+  "depthmeter.at_sea_level": "You are at sea level",
+  "depthmeter.block_below_sea_level": "1 block below sea level",
+  "depthmeter.blocks_below_sea_level": " blocks below sea level",
+
+  "depthmeter.in_end": "You are in the End",
+  "depthmeter.in_void": "You are in the Void",
+
+  "depthmeter.load": "The Depth Meter data pack has successfully loaded!"
+}

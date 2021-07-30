@@ -1,0 +1,15 @@
+item modify entity @s[nbt={Items:[{Slot:2b,id:"minecraft:command_block",tag:{DMToggle:1b}}]}] horse.0 depthmeter:y_level
+item modify entity @s[nbt={Items:[{Slot:3b,id:"minecraft:command_block",tag:{DMToggle:1b}}]}] horse.1 depthmeter:y_level
+item modify entity @s[nbt={Items:[{Slot:4b,id:"minecraft:command_block",tag:{DMToggle:1b}}]}] horse.2 depthmeter:y_level
+item modify entity @s[nbt={Items:[{Slot:5b,id:"minecraft:command_block",tag:{DMToggle:1b}}]}] horse.3 depthmeter:y_level
+item modify entity @s[nbt={Items:[{Slot:6b,id:"minecraft:command_block",tag:{DMToggle:1b}}]}] horse.4 depthmeter:y_level
+item modify entity @s[nbt={Items:[{Slot:7b,id:"minecraft:command_block",tag:{DMToggle:1b}}]}] horse.5 depthmeter:y_level
+item modify entity @s[nbt={Items:[{Slot:8b,id:"minecraft:command_block",tag:{DMToggle:1b}}]}] horse.6 depthmeter:y_level
+item modify entity @s[nbt={Items:[{Slot:9b,id:"minecraft:command_block",tag:{DMToggle:1b}}]}] horse.7 depthmeter:y_level
+item modify entity @s[nbt={Items:[{Slot:10b,id:"minecraft:command_block",tag:{DMToggle:1b}}]}] horse.8 depthmeter:y_level
+item modify entity @s[nbt={Items:[{Slot:11b,id:"minecraft:command_block",tag:{DMToggle:1b}}]}] horse.9 depthmeter:y_level
+item modify entity @s[nbt={Items:[{Slot:12b,id:"minecraft:command_block",tag:{DMToggle:1b}}]}] horse.10 depthmeter:y_level
+item modify entity @s[nbt={Items:[{Slot:13b,id:"minecraft:command_block",tag:{DMToggle:1b}}]}] horse.11 depthmeter:y_level
+item modify entity @s[nbt={Items:[{Slot:14b,id:"minecraft:command_block",tag:{DMToggle:1b}}]}] horse.12 depthmeter:y_level
+item modify entity @s[nbt={Items:[{Slot:15b,id:"minecraft:command_block",tag:{DMToggle:1b}}]}] horse.13 depthmeter:y_level
+item modify entity @s[nbt={Items:[{Slot:16b,id:"minecraft:command_block",tag:{DMToggle:1b}}]}] horse.14 depthmeter:y_level

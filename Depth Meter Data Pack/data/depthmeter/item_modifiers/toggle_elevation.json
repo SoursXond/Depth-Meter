@@ -1,0 +1,28 @@
+[
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{DMToggle:1b}",
+    "conditions": [
+      {
+        "condition": "minecraft:entity_scores",
+        "entity": "this",
+        "scores": {
+          "DMToggle": 1
+        }
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{DMToggle:0b}",
+    "conditions": [
+      {
+        "condition": "minecraft:entity_scores",
+        "entity": "this",
+        "scores": {
+          "DMToggle": 2
+        }
+      }
+    ]
+  }
+]

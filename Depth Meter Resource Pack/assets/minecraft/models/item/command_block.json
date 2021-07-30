@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:item/generated",
+    "textures": {
+    "layer0": "depthmeter:item/depth_meter"
+  },
+  "overrides": [{
+    "predicate": {
+      "custom_model_data": 0
+    },
+    "model": "minecraft:item/command_block"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 1
+	 },
+	 "model": "depthmeter:item/depth_meter_cave"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 2
+	 },
+	 "model": "depthmeter:item/depth_meter_lava"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 3
+	 },
+	 "model": "depthmeter:item/depth_meter_sky"
+  },
+  {
+	 "predicate":{
+		 "custom_model_data": 4
+	 },
+	 "model": "depthmeter:item/depth_meter_void"
+  }]
+}
