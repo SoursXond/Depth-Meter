@@ -1,6 +1,18 @@
 {
   "pack": {
     "pack_format": 7,
-    "description": "3Keeping the Play in the World"
+    "description": [
+      {
+        "text": "Keeping the Play in the World",
+        "color": "aqua"
+      },
+      {
+        "text": "\n"
+      },
+      {
+        "text": "v1.1",
+        "color": "gray"
+      }
+    ]
   }
 }

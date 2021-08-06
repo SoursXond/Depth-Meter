@@ -1,0 +1,15 @@
+[
+  {
+    "condition": "minecraft:entity_scores",
+    "entity": "this",
+    "scores": {
+      "DMPosY": {
+        "min": 64
+      }
+    }
+  },
+  {
+    "condition": "minecraft:reference",
+    "name": "depthmeter:entity/location/overworld/in_dimension"
+  }
+]

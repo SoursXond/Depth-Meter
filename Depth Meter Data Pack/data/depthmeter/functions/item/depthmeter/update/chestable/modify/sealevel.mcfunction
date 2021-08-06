@@ -1,0 +1,15 @@
+execute as @s[nbt={Items:[{Slot:2b,id:"minecraft:command_block"}]}] run item modify entity @s[nbt=!{Items:[{Slot:2b,tag:{DMToggle:1b}}]}] horse.0 depthmeter:depth_meter/sea_level
+execute as @s[nbt={Items:[{Slot:3b,id:"minecraft:command_block"}]}] run item modify entity @s[nbt=!{Items:[{Slot:3b,tag:{DMToggle:1b}}]}] horse.1 depthmeter:depth_meter/sea_level
+execute as @s[nbt={Items:[{Slot:4b,id:"minecraft:command_block"}]}] run item modify entity @s[nbt=!{Items:[{Slot:4b,tag:{DMToggle:1b}}]}] horse.2 depthmeter:depth_meter/sea_level
+execute as @s[nbt={Items:[{Slot:5b,id:"minecraft:command_block"}]}] run item modify entity @s[nbt=!{Items:[{Slot:5b,tag:{DMToggle:1b}}]}] horse.3 depthmeter:depth_meter/sea_level
+execute as @s[nbt={Items:[{Slot:6b,id:"minecraft:command_block"}]}] run item modify entity @s[nbt=!{Items:[{Slot:6b,tag:{DMToggle:1b}}]}] horse.4 depthmeter:depth_meter/sea_level
+execute as @s[nbt={Items:[{Slot:7b,id:"minecraft:command_block"}]}] run item modify entity @s[nbt=!{Items:[{Slot:7b,tag:{DMToggle:1b}}]}] horse.5 depthmeter:depth_meter/sea_level
+execute as @s[nbt={Items:[{Slot:8b,id:"minecraft:command_block"}]}] run item modify entity @s[nbt=!{Items:[{Slot:8b,tag:{DMToggle:1b}}]}] horse.6 depthmeter:depth_meter/sea_level
+execute as @s[nbt={Items:[{Slot:9b,id:"minecraft:command_block"}]}] run item modify entity @s[nbt=!{Items:[{Slot:9b,tag:{DMToggle:1b}}]}] horse.7 depthmeter:depth_meter/sea_level
+execute as @s[nbt={Items:[{Slot:10b,id:"minecraft:command_block"}]}] run item modify entity @s[nbt=!{Items:[{Slot:10b,tag:{DMToggle:1b}}]}] horse.8 depthmeter:depth_meter/sea_level
+execute as @s[nbt={Items:[{Slot:11b,id:"minecraft:command_block"}]}] run item modify entity @s[nbt=!{Items:[{Slot:11b,tag:{DMToggle:1b}}]}] horse.9 depthmeter:depth_meter/sea_level
+execute as @s[nbt={Items:[{Slot:12b,id:"minecraft:command_block"}]}] run item modify entity @s[nbt=!{Items:[{Slot:12b,tag:{DMToggle:1b}}]}] horse.10 depthmeter:depth_meter/sea_level
+execute as @s[nbt={Items:[{Slot:13b,id:"minecraft:command_block"}]}] run item modify entity @s[nbt=!{Items:[{Slot:13b,tag:{DMToggle:1b}}]}] horse.11 depthmeter:depth_meter/sea_level
+execute as @s[nbt={Items:[{Slot:14b,id:"minecraft:command_block"}]}] run item modify entity @s[nbt=!{Items:[{Slot:14b,tag:{DMToggle:1b}}]}] horse.12 depthmeter:depth_meter/sea_level
+execute as @s[nbt={Items:[{Slot:15b,id:"minecraft:command_block"}]}] run item modify entity @s[nbt=!{Items:[{Slot:15b,tag:{DMToggle:1b}}]}] horse.13 depthmeter:depth_meter/sea_level
+execute as @s[nbt={Items:[{Slot:16b,id:"minecraft:command_block"}]}] run item modify entity @s[nbt=!{Items:[{Slot:16b,tag:{DMToggle:1b}}]}] horse.14 depthmeter:depth_meter/sea_level

@@ -1,0 +1,21 @@
+{
+  "condition": "minecraft:alternative",
+  "terms": [
+    {
+      "condition": "minecraft:reference",
+      "name": "depthmeter:entity/player/has_meter"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "depthmeter:entity/chestable_with_meter"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "depthmeter:entity/item_meter"
+    },
+	{
+      "condition": "minecraft:reference",
+      "name": "depthmeter:entity/frame_with_meter"
+    }
+  ]
+}

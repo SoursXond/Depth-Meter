@@ -1,0 +1,148 @@
+[
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      [
+        {
+          "score": {
+            "name": "@s",
+            "objective": "DMDistSeaLvl"
+          },
+          "color": "gray",
+          "italic": false
+        },
+        {
+          "translate": "depthmeter.blocks_above_sea_level",
+          "color": "gray",
+          "italic": false
+        }
+      ]
+    ],
+    "replace": true,
+    "conditions": [
+      {
+        "condition": "minecraft:reference",
+        "name": "depthmeter:entity/location/blocks_above_sea_level"
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "translate": "depthmeter.block_above_sea_level",
+        "color": "gray",
+        "italic": false
+      }
+    ],
+    "replace": true,
+    "conditions": [
+      {
+        "condition": "minecraft:reference",
+        "name": "depthmeter:entity/location/block_above_sea_level"
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "translate": "depthmeter.at_sea_level",
+        "color": "gray",
+        "italic": false
+      }
+    ],
+    "replace": true,
+    "conditions": [
+      {
+        "condition": "minecraft:reference",
+        "name": "depthmeter:entity/location/at_sea_level"
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "translate": "depthmeter.block_below_sea_level",
+        "color": "gray",
+        "italic": false
+      }
+    ],
+    "replace": true,
+    "conditions": [
+      {
+        "condition": "minecraft:reference",
+        "name": "depthmeter:entity/location/block_below_sea_level"
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      [
+        {
+          "score": {
+            "name": "@s",
+            "objective": "DMDistSeaLvl"
+          },
+          "color": "gray",
+          "italic": false
+        },
+        {
+          "translate": "depthmeter.blocks_below_sea_level",
+          "color": "gray",
+          "italic": false
+        }
+      ]
+    ],
+    "replace": true,
+    "conditions": [
+      {
+        "condition": "minecraft:reference",
+        "name": "depthmeter:entity/location/blocks_below_sea_level"
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "translate": "depthmeter.in_end",
+        "color": "gray",
+        "italic": false
+      }
+    ],
+    "replace": true,
+    "conditions": [
+      {
+        "condition": "minecraft:reference",
+        "name": "depthmeter:entity/location/in_end"
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "translate": "depthmeter.in_void",
+        "color": "gray",
+        "italic": false
+      }
+    ],
+    "replace": true,
+    "conditions": [
+      {
+        "condition": "minecraft:reference",
+        "name": "depthmeter:entity/location/in_void"
+      }
+    ]
+  }
+]

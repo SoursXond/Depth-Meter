@@ -1,9 +1,6 @@
 {
   "values": [
-    "depthmeter:load",
-	{
-		"id":"abcl:load",
-		"required": false
-	}
+    "depthmeter:technical/load",
+	"abcl:load"
   ]
 }

@@ -1,0 +1,1 @@
+execute as @e[type=#depthmeter:important] at @s run function depthmeter:entity/tick
